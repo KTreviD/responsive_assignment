@@ -6,7 +6,7 @@ This project is a my assignment finished part of a technical assignment. The pag
 
 ## Technologies Used
 - **HTML5**
-- **CSS3**
+- **SCSS** (compiled into CSS for browser compatibility).
 - **JavaScript**
 - **GitHub Pages**
 
